@@ -1,4 +1,4 @@
-# Repo de prueba par aaprender Git
+# Repo de prueba para aprender Git
 ## Doc Oficial
 
 Probando documentación en GitHub con el README
